@@ -41,10 +41,3 @@ update_sql( $opt_report_id, {
         cache_expiry => $report->{cache_expiry},
     } ); 
 
-# TODO create main() function which will make calls to
-# TODO - Parse argument list
-# TODO - Create report
-# TODO - Read report
-# TODO - Update report
-# TODO - Delete report
-# TODO - List current reports
